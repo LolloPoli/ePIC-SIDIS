@@ -315,7 +315,7 @@ void epic_extraction_table(int target_pdg = 321, const char* inputDir = "../26.0
     }
 
     //--- output file
-    TString outputFile = Form("epic_2603_%s_%dx%d.root", tag.Data(), beam_e, beam_p);
+    TString outputFile = Form("../root_early-science/epic_2603_%s_%dx%d.root", tag.Data(), beam_e, beam_p);
     TFile outFile(outputFile, "RECREATE");
 
     // yaml file
