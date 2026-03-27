@@ -26,7 +26,7 @@
 #include "TPolyLine.h"
 #include "TStyle.h"
 #include "TColor.h"
-#include "ePIC_style.C"
+//#include "ePIC_style.C"
 #include <cstring>  // std::strstr
 
 using namespace std;
@@ -235,7 +235,7 @@ std::pair<double,double> getBinRange_Pt(int bin){
 }
 
 //------------- Main function
-void epic_extraction_table(int target_pdg = 211, const char* inputDir = "26.03_10x275", int beam_e = 10, int beam_p = 275) {
+void epic_extraction_table(int target_pdg = 321, const char* inputDir = "../26.03_10x275", int beam_e = 10, int beam_p = 275) {
 
     //---set_ePIC_style();
     //gROOT->ProcessLine("set_ePIC_style()");
