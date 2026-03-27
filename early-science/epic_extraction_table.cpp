@@ -756,7 +756,8 @@ void epic_extraction_table(int target_pdg = 321, const char* inputDir = "../26.0
     //hiDiv1: 6.69559512e+05, hiDiv2: 6.69025860e+05, hiDiv3: 6.69133908e+05, hiDiv4: 6.69334943e+05, hiDiv5: 6.69510172e+05
     // error cc - errore statistico globale del MC
     //hiDiv1: 4.13015055e+02, hiDiv2: 4.12506870e+02, hiDiv3: 4.12930794e+02, hiDiv4: 4.12961825e+02, hiDiv5: 4.13089841e+02
-    double total_gen_count = total_gen_xB.size();
+    double mean_error_cc = (4.13015055e+02 + 4.12506870e+02 + 4.12930794e+02 + 4.12961825e+02 + 4.13089841e+02)/5;
+    double N_gen_tot = total_gen_xB.size();
     
     for (const auto& key : all_keys) {
 
@@ -802,17 +803,28 @@ void epic_extraction_table(int target_pdg = 321, const char* inputDir = "../26.0
         double sigma_sys = 0.0;
 
         if (delta > 0 && N_rec > 0 && N_gen > 0) {
+            // GEN level
             //sigma = N_gen / (L * delta);  // N_rec / (L*eps*delta) with eps = efficiency = N_rec/N_gen
             // new sigma from total cross-section
-            sigma = total_cc * (N_gen/total_gen_count) * (1/delta);
-            double sigma2 = sigma*sigma;
-            // errore statistico
-            sigma_stat = sigma / sqrt(N_gen); // approx
-            //sigma_stat = sqrt(((2*sigma2)/N_rec) - (sigma2/N_gen)); // not approx? 
-        }
+            //sigma = total_cc * (N_gen/N_gen_tot) * (1/delta);
+            // move on RECO level
+            double eff = (double)N_rec / (double)N_gen;
+            sigma = total_cc * ((double)N_rec/(double)N_gen_tot) * 1/(eff * delta); // non avendo la luminosità del generatore usiamo la sua cc al momento
 
-        // errore sistematico (capire cosa mettere)
-        sigma_sys = sigma * 0.03; // 3%?
+            // errore statistico
+            // GEN level
+            //sigma_stat = sigma / sqrt(N_gen); 
+            // RECO level
+            double sigma2 = sigma*sigma;
+            double delta_eff = sqrt((eff*(1-eff))/(double)N_gen);
+            sigma_stat = sigma*sqrt((1/(double)N_rec) + pow((delta_eff/eff),2)); 
+
+            // errore sistematico (capire cosa mettere)
+            double mc_err = mean_error_cc/total_cc;
+            //dovremmo aggiungere sys sulle efficienza? eh si
+            double epsilon = sqrt(mc_err*mc_err + 0.05*0.05); // +5% as efficiency sys? 
+            sigma_sys = sigma * epsilon;
+        } 
 
         double prod_mass = 0;
         if (std::abs(target_pdg) == 321) prod_mass = 0.497;
