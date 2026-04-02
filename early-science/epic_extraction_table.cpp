@@ -758,6 +758,8 @@ void epic_extraction_table(int target_pdg = 321, const char* inputDir = "../26.0
     //hiDiv1: 4.13015055e+02, hiDiv2: 4.12506870e+02, hiDiv3: 4.12930794e+02, hiDiv4: 4.12961825e+02, hiDiv5: 4.13089841e+02
     double mean_error_cc = (4.13015055e+02 + 4.12506870e+02 + 4.12930794e+02 + 4.12961825e+02 + 4.13089841e+02)/5;
     double N_gen_tot = total_gen_xB.size();
+    // event from the generator (10e6 each div)
+    double event_gen_div1 = 999384;
     
     for (const auto& key : all_keys) {
 
@@ -809,7 +811,8 @@ void epic_extraction_table(int target_pdg = 321, const char* inputDir = "../26.0
             //sigma = total_cc * (N_gen/N_gen_tot) * (1/delta);
             // move on RECO level
             double eff = (double)N_rec / (double)N_gen;
-            sigma = total_cc * ((double)N_rec/(double)N_gen_tot) * 1/(eff * delta); // non avendo la luminosità del generatore usiamo la sua cc al momento
+            double luminosity = 5e6 / total_cc;
+            sigma = (double)N_rec / (luminosity * eff * delta);
 
             // errore statistico
             // GEN level
