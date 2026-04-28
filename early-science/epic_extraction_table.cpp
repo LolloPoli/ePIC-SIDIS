@@ -235,7 +235,7 @@ std::pair<double,double> getBinRange_Pt(int bin){
 }
 
 //------------- Main function
-void epic_extraction_table(int target_pdg = 321, const char* inputDir = "../26.03_10x275", int beam_e = 10, int beam_p = 275) {
+void epic_extraction_table(int target_pdg = 211, const char* inputDir = "../26.03_10x275", int beam_e = 10, int beam_p = 275) {
 
     //---set_ePIC_style();
     //gROOT->ProcessLine("set_ePIC_style()");
@@ -823,9 +823,10 @@ void epic_extraction_table(int target_pdg = 321, const char* inputDir = "../26.0
             sigma_stat = sigma*sqrt((1/(double)N_rec) + pow((delta_eff/eff),2)); 
 
             // errore sistematico (capire cosa mettere)
-            double mc_err = mean_error_cc/total_cc;
+            //double mc_err = mean_error_cc/total_cc;
             //dovremmo aggiungere sys sulle efficienza? eh si
-            double epsilon = sqrt(mc_err*mc_err + 0.05*0.05); // +5% as efficiency sys? 
+            //double epsilon = sqrt(mc_err*mc_err + 0.05*0.05); // +5% as efficiency sys? 
+            double epsilon = sqrt(0.02*0.02 + 0.03*0.03);
             sigma_sys = sigma * epsilon;
         } 
 
