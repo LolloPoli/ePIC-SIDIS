@@ -1,0 +1,8680 @@
+data:
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 2.23425
+        Q_min: 1.77828
+        Q_max: 2.37137
+      xB:
+        xB_mean: 0.000562055
+        xB_min: 0.000398107
+        xB_max: 0.000630957
+      z:
+        z_mean: 0.0886785
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 1.2669
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 3.45254e-06
+      xSec_diff: 15.7654
+      xSec_uncorr_error: 42.7378
+      xSec_corr_error: 0.788268
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 5.96816
+        Q_min: 5.62342
+        Q_max: 7.49894
+      xB:
+        xB_mean: 0.00387857
+        xB_min: 0.00251189
+        xB_max: 0.00398107
+      z:
+        z_mean: 0.193386
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 1.11496
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 6.88871e-05
+      xSec_diff: 0.790142
+      xSec_uncorr_error: 2.14197
+      xSec_corr_error: 0.0395071
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 9.15045
+        Q_min: 7.49894
+        Q_max: 10
+      xB:
+        xB_mean: 0.0090283
+        xB_min: 0.00630957
+        xB_max: 0.01
+      z:
+        z_mean: 0.0981577
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 1.45394
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.00023075
+      xSec_diff: 0.235886
+      xSec_uncorr_error: 0.639455
+      xSec_corr_error: 0.0117943
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 9.0377
+        Q_min: 7.49894
+        Q_max: 10
+      xB:
+        xB_mean: 0.0151563
+        xB_min: 0.01
+        xB_max: 0.0158489
+      z:
+        z_mean: 0.062664
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.847336
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 7.31423e-05
+      xSec_diff: 0.744174
+      xSec_uncorr_error: 2.01736
+      xSec_corr_error: 0.0372087
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 11.0755
+        Q_min: 10
+        Q_max: 13.3352
+      xB:
+        xB_mean: 0.0134887
+        xB_min: 0.01
+        xB_max: 0.0158489
+      z:
+        z_mean: 0.118851
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 1.49758
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.000487684
+      xSec_diff: 0.11161
+      xSec_uncorr_error: 0.302561
+      xSec_corr_error: 0.00558052
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 12.9312
+        Q_min: 10
+        Q_max: 13.3352
+      xB:
+        xB_mean: 0.0183073
+        xB_min: 0.0158489
+        xB_max: 0.0251189
+      z:
+        z_mean: 0.0683053
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.84096
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.000154587
+      xSec_diff: 0.352102
+      xSec_uncorr_error: 0.954504
+      xSec_corr_error: 0.0176051
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 10.8735
+        Q_min: 10
+        Q_max: 13.3352
+      xB:
+        xB_mean: 0.0159321
+        xB_min: 0.0158489
+        xB_max: 0.0251189
+      z:
+        z_mean: 0.0581437
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 1.33929
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.000772936
+      xSec_diff: 0.0704205
+      xSec_uncorr_error: 0.190901
+      xSec_corr_error: 0.00352102
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 16.3564
+        Q_min: 13.3352
+        Q_max: 17.7828
+      xB:
+        xB_mean: 0.03012
+        xB_min: 0.0251189
+        xB_max: 0.0398107
+      z:
+        z_mean: 0.129137
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 1.12069
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.00163358
+      xSec_diff: 0.0333199
+      xSec_uncorr_error: 0.0903259
+      xSec_corr_error: 0.00166599
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 15.0979
+        Q_min: 13.3352
+        Q_max: 17.7828
+      xB:
+        xB_mean: 0.0517141
+        xB_min: 0.0398107
+        xB_max: 0.0630957
+      z:
+        z_mean: 0.0722189
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 1.41878
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.00258905
+      xSec_diff: 0.0210234
+      xSec_uncorr_error: 0.0569916
+      xSec_corr_error: 0.00105117
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 20.1189
+        Q_min: 17.7828
+        Q_max: 23.7137
+      xB:
+        xB_mean: 0.0437077
+        xB_min: 0.0398107
+        xB_max: 0.0630957
+      z:
+        z_mean: 0.312753
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 1.40979
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.00690508
+      xSec_diff: 0.00788268
+      xSec_uncorr_error: 0.0213689
+      xSec_corr_error: 0.000394134
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.6932
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.18314
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.0734391
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.0656985
+        Pt_min: 0
+        Pt_max: 0.1
+      Delta_bin: 0.0516894
+      xSec_diff: 0.533887
+      xSec_uncorr_error: 0.0794716
+      xSec_corr_error: 0.0266943
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 507
+      Num_reco: 401
+      abs_stat_error: 0.135374
+      abs_sys_error: 0
+      efficiency: 0.790927
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.7349
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.18329
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.0716347
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.154866
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.0516894
+      xSec_diff: 1.43739
+      xSec_uncorr_error: 0.128777
+      xSec_corr_error: 0.0718694
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1365
+      Num_reco: 1096
+      abs_stat_error: 0.0818848
+      abs_sys_error: 0
+      efficiency: 0.80293
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.649
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.18448
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.0724032
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.251242
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.0516894
+      xSec_diff: 1.96917
+      xSec_uncorr_error: 0.153658
+      xSec_corr_error: 0.0984584
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1870
+      Num_reco: 1467
+      abs_stat_error: 0.0707772
+      abs_sys_error: 0
+      efficiency: 0.784492
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.6766
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.182956
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.0729817
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.350154
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.0516894
+      xSec_diff: 2.18083
+      xSec_uncorr_error: 0.165002
+      xSec_corr_error: 0.109041
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 2071
+      Num_reco: 1585
+      abs_stat_error: 0.0680917
+      abs_sys_error: 0
+      efficiency: 0.765331
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.6591
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.186769
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.072537
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.449514
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.0516894
+      xSec_diff: 2.0513
+      xSec_uncorr_error: 0.158978
+      xSec_corr_error: 0.102565
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1948
+      Num_reco: 1503
+      abs_stat_error: 0.0699245
+      abs_sys_error: 0
+      efficiency: 0.771561
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.7409
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.186824
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.0721497
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.548559
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.0516894
+      xSec_diff: 1.88493
+      xSec_uncorr_error: 0.152492
+      xSec_corr_error: 0.0942463
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1790
+      Num_reco: 1380
+      abs_stat_error: 0.0729742
+      abs_sys_error: 0
+      efficiency: 0.77095
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.7333
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.184181
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.0728586
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.648506
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.0516894
+      xSec_diff: 1.51321
+      xSec_uncorr_error: 0.136818
+      xSec_corr_error: 0.0756603
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1437
+      Num_reco: 1106
+      abs_stat_error: 0.0815138
+      abs_sys_error: 0
+      efficiency: 0.769659
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.655
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.186438
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.073384
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.747375
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.0516894
+      xSec_diff: 1.27101
+      xSec_uncorr_error: 0.129778
+      xSec_corr_error: 0.0635504
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1207
+      Num_reco: 890
+      abs_stat_error: 0.0908685
+      abs_sys_error: 0
+      efficiency: 0.737365
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.7406
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.185445
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.0728104
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.849455
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.0516894
+      xSec_diff: 1.08146
+      xSec_uncorr_error: 0.11937
+      xSec_corr_error: 0.0540731
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1027
+      Num_reco: 760
+      abs_stat_error: 0.0983336
+      abs_sys_error: 0
+      efficiency: 0.740019
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.6033
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.185012
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.0722591
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.949565
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.0516894
+      xSec_diff: 0.780296
+      xSec_uncorr_error: 0.101301
+      xSec_corr_error: 0.0390148
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 741
+      Num_reco: 549
+      abs_stat_error: 0.115697
+      abs_sys_error: 0
+      efficiency: 0.740891
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.8238
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.181451
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.0724614
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 1.22078
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.258447
+      xSec_diff: 0.531991
+      xSec_uncorr_error: 0.0385023
+      xSec_corr_error: 0.0265996
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 2526
+      Num_reco: 1804
+      abs_stat_error: 0.0638249
+      abs_sys_error: 0
+      efficiency: 0.714173
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.4537
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.180254
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.121739
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.065965
+        Pt_min: 0
+        Pt_max: 0.1
+      Delta_bin: 0.0516894
+      xSec_diff: 0.237985
+      xSec_uncorr_error: 0.0515553
+      xSec_corr_error: 0.0118992
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 226
+      Num_reco: 185
+      abs_stat_error: 0.199307
+      abs_sys_error: 0
+      efficiency: 0.818584
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.8463
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.184518
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.12073
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.154342
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.0516894
+      xSec_diff: 0.572849
+      xSec_uncorr_error: 0.0780884
+      xSec_corr_error: 0.0286424
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 544
+      Num_reco: 458
+      abs_stat_error: 0.126671
+      abs_sys_error: 0
+      efficiency: 0.841912
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.8311
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.183609
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.121312
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.249966
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.0516894
+      xSec_diff: 0.846637
+      xSec_uncorr_error: 0.0983931
+      xSec_corr_error: 0.0423318
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 804
+      Num_reco: 649
+      abs_stat_error: 0.106411
+      abs_sys_error: 0
+      efficiency: 0.807214
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.6679
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.18475
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.121981
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.352739
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.0516894
+      xSec_diff: 0.97616
+      xSec_uncorr_error: 0.105214
+      xSec_corr_error: 0.048808
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 927
+      Num_reco: 752
+      abs_stat_error: 0.0988552
+      abs_sys_error: 0
+      efficiency: 0.811219
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.9582
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.184005
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.12153
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.450123
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.0516894
+      xSec_diff: 1.00354
+      xSec_uncorr_error: 0.108451
+      xSec_corr_error: 0.0501769
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 953
+      Num_reco: 758
+      abs_stat_error: 0.0984632
+      abs_sys_error: 0
+      efficiency: 0.795383
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.9739
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.185661
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.122876
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.55059
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.0516894
+      xSec_diff: 0.849796
+      xSec_uncorr_error: 0.095768
+      xSec_corr_error: 0.0424898
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 807
+      Num_reco: 674
+      abs_stat_error: 0.104419
+      abs_sys_error: 0
+      efficiency: 0.835192
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.9041
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.182598
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.122255
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.649276
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.0516894
+      xSec_diff: 0.728697
+      xSec_uncorr_error: 0.0890724
+      xSec_corr_error: 0.0364349
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 692
+      Num_reco: 575
+      abs_stat_error: 0.113051
+      abs_sys_error: 0
+      efficiency: 0.830925
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.7722
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.183182
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.12283
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.748136
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.0516894
+      xSec_diff: 0.565478
+      xSec_uncorr_error: 0.078346
+      xSec_corr_error: 0.0282739
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 537
+      Num_reco: 447
+      abs_stat_error: 0.12822
+      abs_sys_error: 0
+      efficiency: 0.832402
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.7621
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.180922
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.123343
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.848111
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.0516894
+      xSec_diff: 0.528622
+      xSec_uncorr_error: 0.0790862
+      xSec_corr_error: 0.0264311
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 502
+      Num_reco: 397
+      abs_stat_error: 0.136055
+      abs_sys_error: 0
+      efficiency: 0.790837
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.2454
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.186394
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.122416
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.950013
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.0516894
+      xSec_diff: 0.387515
+      xSec_uncorr_error: 0.0652798
+      xSec_corr_error: 0.0193758
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 368
+      Num_reco: 304
+      abs_stat_error: 0.155479
+      abs_sys_error: 0
+      efficiency: 0.826087
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.8602
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.180949
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.122219
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 1.20763
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.258447
+      xSec_diff: 0.23967
+      xSec_uncorr_error: 0.0240125
+      xSec_corr_error: 0.0119835
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1138
+      Num_reco: 891
+      abs_stat_error: 0.0908175
+      abs_sys_error: 0
+      efficiency: 0.782953
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.6993
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.184324
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.172134
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.0642839
+        Pt_min: 0
+        Pt_max: 0.1
+      Delta_bin: 0.0516894
+      xSec_diff: 0.121099
+      xSec_uncorr_error: 0.0385313
+      xSec_corr_error: 0.00605493
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 115
+      Num_reco: 89
+      abs_stat_error: 0.287352
+      abs_sys_error: 0
+      efficiency: 0.773913
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.6691
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.181958
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.171115
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.154422
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.0516894
+      xSec_diff: 0.294849
+      xSec_uncorr_error: 0.0580695
+      xSec_corr_error: 0.0147424
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 280
+      Num_reco: 226
+      abs_stat_error: 0.180324
+      abs_sys_error: 0
+      efficiency: 0.807143
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.537
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.178682
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.173105
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.252188
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.0516894
+      xSec_diff: 0.461228
+      xSec_uncorr_error: 0.0734141
+      xSec_corr_error: 0.0230614
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 438
+      Num_reco: 349
+      abs_stat_error: 0.14511
+      abs_sys_error: 0
+      efficiency: 0.796804
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.967
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.180491
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.172359
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.350824
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.0516894
+      xSec_diff: 0.525462
+      xSec_uncorr_error: 0.0802938
+      xSec_corr_error: 0.0262731
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 499
+      Num_reco: 386
+      abs_stat_error: 0.13798
+      abs_sys_error: 0
+      efficiency: 0.773547
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.992
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.181892
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.171868
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.450264
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.0516894
+      xSec_diff: 0.487553
+      xSec_uncorr_error: 0.0733007
+      xSec_corr_error: 0.0243777
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 463
+      Num_reco: 382
+      abs_stat_error: 0.1387
+      abs_sys_error: 0
+      efficiency: 0.825054
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.9341
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.181584
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.171867
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.551862
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.0516894
+      xSec_diff: 0.478076
+      xSec_uncorr_error: 0.0784318
+      xSec_corr_error: 0.0239038
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 454
+      Num_reco: 341
+      abs_stat_error: 0.146802
+      abs_sys_error: 0
+      efficiency: 0.751101
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.7855
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.18051
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.172246
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.648863
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.0516894
+      xSec_diff: 0.429637
+      xSec_uncorr_error: 0.0736672
+      xSec_corr_error: 0.0214818
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 408
+      Num_reco: 310
+      abs_stat_error: 0.153967
+      abs_sys_error: 0
+      efficiency: 0.759804
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.7633
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.183587
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.173489
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.746206
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.0516894
+      xSec_diff: 0.353818
+      xSec_uncorr_error: 0.0630646
+      xSec_corr_error: 0.0176909
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 336
+      Num_reco: 274
+      abs_stat_error: 0.16377
+      abs_sys_error: 0
+      efficiency: 0.815476
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.8529
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.180175
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.172632
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.847749
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.0516894
+      xSec_diff: 0.284318
+      xSec_uncorr_error: 0.0604364
+      xSec_corr_error: 0.0142159
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 270
+      Num_reco: 203
+      abs_stat_error: 0.190266
+      abs_sys_error: 0
+      efficiency: 0.751852
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.6437
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.182692
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.171298
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.945323
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.0516894
+      xSec_diff: 0.212712
+      xSec_uncorr_error: 0.0480869
+      xSec_corr_error: 0.0106356
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 202
+      Num_reco: 168
+      abs_stat_error: 0.209148
+      abs_sys_error: 0
+      efficiency: 0.831683
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.6581
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.178883
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.172227
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 1.21644
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.258447
+      xSec_diff: 0.144476
+      xSec_uncorr_error: 0.0190228
+      xSec_corr_error: 0.00722379
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 686
+      Num_reco: 524
+      abs_stat_error: 0.118425
+      abs_sys_error: 0
+      efficiency: 0.763848
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.6612
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.190319
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.220609
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.0691744
+        Pt_min: 0
+        Pt_max: 0.1
+      Delta_bin: 0.0516894
+      xSec_diff: 0.0579167
+      xSec_uncorr_error: 0.0285646
+      xSec_corr_error: 0.00289584
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 55
+      Num_reco: 39
+      abs_stat_error: 0.434087
+      abs_sys_error: 0
+      efficiency: 0.709091
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.8564
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.176212
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.221371
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.155587
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.0516894
+      xSec_diff: 0.189546
+      xSec_uncorr_error: 0.0485761
+      xSec_corr_error: 0.00947728
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 180
+      Num_reco: 138
+      abs_stat_error: 0.230765
+      abs_sys_error: 0
+      efficiency: 0.766667
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.0262
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.181613
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.221852
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.252619
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.0516894
+      xSec_diff: 0.260099
+      xSec_uncorr_error: 0.0600401
+      xSec_corr_error: 0.0130049
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 247
+      Num_reco: 177
+      abs_stat_error: 0.203761
+      abs_sys_error: 0
+      efficiency: 0.716599
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.8929
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.179439
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.222369
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.349613
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.0516894
+      xSec_diff: 0.290637
+      xSec_uncorr_error: 0.061225
+      xSec_corr_error: 0.0145318
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 276
+      Num_reco: 207
+      abs_stat_error: 0.188418
+      abs_sys_error: 0
+      efficiency: 0.75
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.7985
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.180236
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.220793
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.451962
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.0516894
+      xSec_diff: 0.296955
+      xSec_uncorr_error: 0.0649223
+      xSec_corr_error: 0.0148477
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 282
+      Num_reco: 199
+      abs_stat_error: 0.192168
+      abs_sys_error: 0
+      efficiency: 0.705674
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.7489
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.176623
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.220854
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.548845
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.0516894
+      xSec_diff: 0.271682
+      xSec_uncorr_error: 0.0626459
+      xSec_corr_error: 0.0135841
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 258
+      Num_reco: 180
+      abs_stat_error: 0.202056
+      abs_sys_error: 0
+      efficiency: 0.697674
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.9459
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.174514
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.22574
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.645237
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.0516894
+      xSec_diff: 0.249568
+      xSec_uncorr_error: 0.0627444
+      xSec_corr_error: 0.0124784
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 237
+      Num_reco: 156
+      abs_stat_error: 0.217043
+      abs_sys_error: 0
+      efficiency: 0.658228
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.1658
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.180761
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.223182
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.75026
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.0516894
+      xSec_diff: 0.193758
+      xSec_uncorr_error: 0.0556665
+      xSec_corr_error: 0.00968788
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 184
+      Num_reco: 120
+      abs_stat_error: 0.247467
+      abs_sys_error: 0
+      efficiency: 0.652174
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.4165
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.183122
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.223294
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.8466
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.0516894
+      xSec_diff: 0.169538
+      xSec_uncorr_error: 0.0506336
+      xSec_corr_error: 0.0084769
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 161
+      Num_reco: 109
+      abs_stat_error: 0.259654
+      abs_sys_error: 0
+      efficiency: 0.677019
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.0854
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.177321
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.223211
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.943198
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.0516894
+      xSec_diff: 0.151636
+      xSec_uncorr_error: 0.0417125
+      xSec_corr_error: 0.00758182
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 144
+      Num_reco: 116
+      abs_stat_error: 0.251698
+      abs_sys_error: 0
+      efficiency: 0.805556
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.8224
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.177519
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.222992
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 1.21258
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.258447
+      xSec_diff: 0.0846637
+      xSec_uncorr_error: 0.0154894
+      xSec_corr_error: 0.00423318
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 402
+      Num_reco: 284
+      abs_stat_error: 0.160861
+      abs_sys_error: 0
+      efficiency: 0.706468
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.4528
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.184778
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.277663
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.0783188
+        Pt_min: 0
+        Pt_max: 0.1
+      Delta_bin: 0.0516894
+      xSec_diff: 0.0242197
+      xSec_uncorr_error: 0.0156094
+      xSec_corr_error: 0.00121099
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 23
+      Num_reco: 20
+      abs_stat_error: 0.606169
+      abs_sys_error: 0
+      efficiency: 0.869565
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.5642
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.178744
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.273908
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.154307
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.0516894
+      xSec_diff: 0.0800304
+      xSec_uncorr_error: 0.0396219
+      xSec_corr_error: 0.00400152
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 76
+      Num_reco: 43
+      abs_stat_error: 0.413404
+      abs_sys_error: 0
+      efficiency: 0.565789
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.487
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.180515
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.27201
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.256771
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.0516894
+      xSec_diff: 0.126364
+      xSec_uncorr_error: 0.0450662
+      xSec_corr_error: 0.00631819
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 120
+      Num_reco: 78
+      abs_stat_error: 0.306946
+      abs_sys_error: 0
+      efficiency: 0.65
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.3727
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.170594
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.275197
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.345958
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.0516894
+      xSec_diff: 0.172697
+      xSec_uncorr_error: 0.0572516
+      xSec_corr_error: 0.00863485
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 164
+      Num_reco: 95
+      abs_stat_error: 0.278129
+      abs_sys_error: 0
+      efficiency: 0.579268
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.3232
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.167657
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.273382
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.449642
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.0516894
+      xSec_diff: 0.151636
+      xSec_uncorr_error: 0.0488256
+      xSec_corr_error: 0.00758182
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 144
+      Num_reco: 95
+      abs_stat_error: 0.278129
+      abs_sys_error: 0
+      efficiency: 0.659722
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.6712
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.174467
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.27233
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.551683
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.0516894
+      xSec_diff: 0.16322
+      xSec_uncorr_error: 0.0515021
+      xSec_corr_error: 0.00816099
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 155
+      Num_reco: 100
+      abs_stat_error: 0.271087
+      abs_sys_error: 0
+      efficiency: 0.645161
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.3843
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.171131
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.271566
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.648695
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.0516894
+      xSec_diff: 0.154796
+      xSec_uncorr_error: 0.0521077
+      xSec_corr_error: 0.00773978
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 147
+      Num_reco: 90
+      abs_stat_error: 0.285751
+      abs_sys_error: 0
+      efficiency: 0.612245
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.9877
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.174193
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.271441
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.75075
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.0516894
+      xSec_diff: 0.129523
+      xSec_uncorr_error: 0.0439663
+      xSec_corr_error: 0.00647614
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 123
+      Num_reco: 84
+      abs_stat_error: 0.29578
+      abs_sys_error: 0
+      efficiency: 0.682927
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.6893
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.172675
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.269877
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.849561
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.0516894
+      xSec_diff: 0.110568
+      xSec_uncorr_error: 0.0427341
+      xSec_corr_error: 0.00552841
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 105
+      Num_reco: 67
+      abs_stat_error: 0.331185
+      abs_sys_error: 0
+      efficiency: 0.638095
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.013
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.179206
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.272638
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.950448
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.0516894
+      xSec_diff: 0.0989849
+      xSec_uncorr_error: 0.0419577
+      xSec_corr_error: 0.00494925
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 94
+      Num_reco: 57
+      abs_stat_error: 0.359063
+      abs_sys_error: 0
+      efficiency: 0.606383
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.0431
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.173034
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.273432
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 1.21271
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.258447
+      xSec_diff: 0.0556
+      xSec_uncorr_error: 0.0140684
+      xSec_corr_error: 0.00278
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 264
+      Num_reco: 160
+      abs_stat_error: 0.214313
+      abs_sys_error: 0
+      efficiency: 0.606061
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.5869
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.16886
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.341796
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.0667665
+        Pt_min: 0
+        Pt_max: 0.1
+      Delta_bin: 0.103379
+      xSec_diff: 0.0152689
+      xSec_uncorr_error: 0.0110122
+      xSec_corr_error: 0.000763447
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 29
+      Num_reco: 19
+      abs_stat_error: 0.621916
+      abs_sys_error: 0
+      efficiency: 0.655172
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.0141
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.161812
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.337871
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.148408
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.103379
+      xSec_diff: 0.0384356
+      xSec_uncorr_error: 0.0182699
+      xSec_corr_error: 0.00192178
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 73
+      Num_reco: 45
+      abs_stat_error: 0.404113
+      abs_sys_error: 0
+      efficiency: 0.616438
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.8122
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.164501
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.341484
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.253024
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.103379
+      xSec_diff: 0.0647614
+      xSec_uncorr_error: 0.0246082
+      xSec_corr_error: 0.00323807
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 123
+      Num_reco: 72
+      abs_stat_error: 0.319479
+      abs_sys_error: 0
+      efficiency: 0.585366
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.9229
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.167222
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.338334
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.34563
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.103379
+      xSec_diff: 0.067394
+      xSec_uncorr_error: 0.028872
+      xSec_corr_error: 0.0033697
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 128
+      Num_reco: 61
+      abs_stat_error: 0.347091
+      abs_sys_error: 0
+      efficiency: 0.476562
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.2696
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.172325
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.338683
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.450001
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.103379
+      xSec_diff: 0.0779243
+      xSec_uncorr_error: 0.028532
+      xSec_corr_error: 0.00389621
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 148
+      Num_reco: 80
+      abs_stat_error: 0.303084
+      abs_sys_error: 0
+      efficiency: 0.540541
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.6399
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.175019
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.336072
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.550188
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.103379
+      xSec_diff: 0.0842425
+      xSec_uncorr_error: 0.031801
+      xSec_corr_error: 0.00421212
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 160
+      Num_reco: 78
+      abs_stat_error: 0.306946
+      abs_sys_error: 0
+      efficiency: 0.4875
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.884
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.171081
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.342485
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.64951
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.103379
+      xSec_diff: 0.0721326
+      xSec_uncorr_error: 0.0293649
+      xSec_corr_error: 0.00360663
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 137
+      Num_reco: 67
+      abs_stat_error: 0.331185
+      abs_sys_error: 0
+      efficiency: 0.489051
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.9742
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.170265
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.334652
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.744986
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.103379
+      xSec_diff: 0.0637084
+      xSec_uncorr_error: 0.0236565
+      xSec_corr_error: 0.00318542
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 121
+      Num_reco: 74
+      abs_stat_error: 0.315132
+      abs_sys_error: 0
+      efficiency: 0.61157
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.0456
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.168992
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.335852
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.849489
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.103379
+      xSec_diff: 0.0658144
+      xSec_uncorr_error: 0.025091
+      xSec_corr_error: 0.00329072
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 125
+      Num_reco: 72
+      abs_stat_error: 0.319479
+      abs_sys_error: 0
+      efficiency: 0.576
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.4224
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.172468
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.33467
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.944831
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.103379
+      xSec_diff: 0.0537046
+      xSec_uncorr_error: 0.0243316
+      xSec_corr_error: 0.00268523
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 102
+      Num_reco: 53
+      abs_stat_error: 0.372367
+      abs_sys_error: 0
+      efficiency: 0.519608
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.7994
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.163737
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.345184
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 1.20382
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.516894
+      xSec_diff: 0.0275894
+      xSec_uncorr_error: 0.00719518
+      xSec_corr_error: 0.00137947
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 262
+      Num_reco: 153
+      abs_stat_error: 0.219161
+      abs_sys_error: 0
+      efficiency: 0.583969
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 34.1975
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.148121
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.447588
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.0766856
+        Pt_min: 0
+        Pt_max: 0.1
+      Delta_bin: 0.103379
+      xSec_diff: 0.00421212
+      xSec_uncorr_error: 0.00699239
+      xSec_corr_error: 0.000210606
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 8
+      Num_reco: 4
+      abs_stat_error: 1.35543
+      abs_sys_error: 0
+      efficiency: 0.5
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.1599
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.156968
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.43533
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.140591
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.103379
+      xSec_diff: 0.0136894
+      xSec_uncorr_error: 0.0159081
+      xSec_corr_error: 0.00068447
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 26
+      Num_reco: 9
+      abs_stat_error: 0.903623
+      abs_sys_error: 0
+      efficiency: 0.346154
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.7003
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.161892
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.435278
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.255791
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.103379
+      xSec_diff: 0.0221137
+      xSec_uncorr_error: 0.0160216
+      xSec_corr_error: 0.00110568
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 42
+      Num_reco: 21
+      abs_stat_error: 0.59156
+      abs_sys_error: 0
+      efficiency: 0.5
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.6709
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.173641
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.432571
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.352739
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.103379
+      xSec_diff: 0.0294849
+      xSec_uncorr_error: 0.0216035
+      xSec_corr_error: 0.00147424
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 56
+      Num_reco: 22
+      abs_stat_error: 0.577959
+      abs_sys_error: 0
+      efficiency: 0.392857
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 38.0307
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.174111
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.43792
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.445507
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.103379
+      xSec_diff: 0.0331705
+      xSec_uncorr_error: 0.0253323
+      xSec_corr_error: 0.00165852
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 63
+      Num_reco: 21
+      abs_stat_error: 0.59156
+      abs_sys_error: 0
+      efficiency: 0.333333
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 34.8476
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.15495
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.433369
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.555108
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.103379
+      xSec_diff: 0.0363296
+      xSec_uncorr_error: 0.0215785
+      xSec_corr_error: 0.00181648
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 69
+      Num_reco: 32
+      abs_stat_error: 0.479219
+      abs_sys_error: 0
+      efficiency: 0.463768
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.1303
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.151153
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.445625
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.640207
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.103379
+      xSec_diff: 0.0321174
+      xSec_uncorr_error: 0.0214207
+      xSec_corr_error: 0.00160587
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 61
+      Num_reco: 26
+      abs_stat_error: 0.531645
+      abs_sys_error: 0
+      efficiency: 0.42623
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.9347
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.162483
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.439601
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.740632
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.103379
+      xSec_diff: 0.0221137
+      xSec_uncorr_error: 0.0206838
+      xSec_corr_error: 0.00110568
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 42
+      Num_reco: 14
+      abs_stat_error: 0.72451
+      abs_sys_error: 0
+      efficiency: 0.333333
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.1414
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.151361
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.43714
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.847333
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.103379
+      xSec_diff: 0.0221137
+      xSec_uncorr_error: 0.0251629
+      xSec_corr_error: 0.00110568
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 42
+      Num_reco: 10
+      abs_stat_error: 0.857252
+      abs_sys_error: 0
+      efficiency: 0.238095
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 38.2343
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.179802
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.463743
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.957689
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.103379
+      xSec_diff: 0.0131629
+      xSec_uncorr_error: 0.0176878
+      xSec_corr_error: 0.000658144
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 25
+      Num_reco: 7
+      abs_stat_error: 1.02461
+      abs_sys_error: 0
+      efficiency: 0.28
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.2679
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.156255
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.438322
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 1.2328
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.516894
+      xSec_diff: 0.0123205
+      xSec_uncorr_error: 0.00641643
+      xSec_corr_error: 0.000616023
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 117
+      Num_reco: 44
+      abs_stat_error: 0.408679
+      abs_sys_error: 0
+      efficiency: 0.376068
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 38.9008
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.17432
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.553498
+        z_min: 0.5
+        z_max: 0.6
+      Pt:
+        Pt_mean: 0.170721
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.103379
+      xSec_diff: 0.00421212
+      xSec_uncorr_error: 0.0084038
+      xSec_corr_error: 0.000210606
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 8
+      Num_reco: 3
+      abs_stat_error: 1.56512
+      abs_sys_error: 0
+      efficiency: 0.375
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.2574
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.159123
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.501137
+        z_min: 0.5
+        z_max: 0.6
+      Pt:
+        Pt_mean: 0.226467
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.103379
+      xSec_diff: 0.0115833
+      xSec_uncorr_error: 0.030679
+      xSec_corr_error: 0.000579167
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 22
+      Num_reco: 2
+      abs_stat_error: 1.91687
+      abs_sys_error: 0
+      efficiency: 0.0909091
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 37.5294
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.159051
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.548689
+        z_min: 0.5
+        z_max: 0.6
+      Pt:
+        Pt_mean: 0.337611
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.103379
+      xSec_diff: 0.0100038
+      xSec_uncorr_error: 0.0181387
+      xSec_corr_error: 0.00050019
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 19
+      Num_reco: 4
+      abs_stat_error: 1.35543
+      abs_sys_error: 0
+      efficiency: 0.210526
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.0227
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.149642
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.536352
+        z_min: 0.5
+        z_max: 0.6
+      Pt:
+        Pt_mean: 0.448051
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.103379
+      xSec_diff: 0.0142159
+      xSec_uncorr_error: 0.0192177
+      xSec_corr_error: 0.000710796
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 27
+      Num_reco: 7
+      abs_stat_error: 1.02461
+      abs_sys_error: 0
+      efficiency: 0.259259
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.4851
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.146653
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.548367
+        z_min: 0.5
+        z_max: 0.6
+      Pt:
+        Pt_mean: 0.580901
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.103379
+      xSec_diff: 0.00895076
+      xSec_uncorr_error: 0.0235399
+      xSec_corr_error: 0.000447538
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 17
+      Num_reco: 2
+      abs_stat_error: 1.91687
+      abs_sys_error: 0
+      efficiency: 0.117647
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.1689
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.156888
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.54119
+        z_min: 0.5
+        z_max: 0.6
+      Pt:
+        Pt_mean: 0.651803
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.103379
+      xSec_diff: 0.0205341
+      xSec_uncorr_error: 0.0246806
+      xSec_corr_error: 0.00102671
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 39
+      Num_reco: 9
+      abs_stat_error: 0.903623
+      abs_sys_error: 0
+      efficiency: 0.230769
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.1429
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.146506
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.522298
+        z_min: 0.5
+        z_max: 0.6
+      Pt:
+        Pt_mean: 0.755476
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.103379
+      xSec_diff: 0.0115833
+      xSec_uncorr_error: 0.0247493
+      xSec_corr_error: 0.000579167
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 22
+      Num_reco: 3
+      abs_stat_error: 1.56512
+      abs_sys_error: 0
+      efficiency: 0.136364
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 34.4209
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.137075
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.560015
+        z_min: 0.5
+        z_max: 0.6
+      Pt:
+        Pt_mean: 0.851565
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.103379
+      xSec_diff: 0.0121099
+      xSec_uncorr_error: 0.0196016
+      xSec_corr_error: 0.000605493
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 23
+      Num_reco: 5
+      abs_stat_error: 1.21234
+      abs_sys_error: 0
+      efficiency: 0.217391
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.3346
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.154995
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.558633
+        z_min: 0.5
+        z_max: 0.6
+      Pt:
+        Pt_mean: 1.26262
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.516894
+      xSec_diff: 0.00621288
+      xSec_uncorr_error: 0.00763076
+      xSec_corr_error: 0.000310644
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 59
+      Num_reco: 9
+      abs_stat_error: 0.903623
+      abs_sys_error: 0
+      efficiency: 0.152542
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.2702
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.167682
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.662383
+        z_min: 0.6
+        z_max: 0.7
+      Pt:
+        Pt_mean: 0.129189
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.103379
+      xSec_diff: 0.00210606
+      xSec_uncorr_error: 0.00755264
+      xSec_corr_error: 0.000105303
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 4
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 0.25
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 34.8644
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.137307
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.672623
+        z_min: 0.6
+        z_max: 0.7
+      Pt:
+        Pt_mean: 0.266825
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.103379
+      xSec_diff: 0.00579167
+      xSec_uncorr_error: 0.0216933
+      xSec_corr_error: 0.000289584
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 11
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 0.0909091
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 37.7941
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.158485
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.619982
+        z_min: 0.6
+        z_max: 0.7
+      Pt:
+        Pt_mean: 0.472536
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.103379
+      xSec_diff: 0.00842425
+      xSec_uncorr_error: 0.0221119
+      xSec_corr_error: 0.000421212
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 16
+      Num_reco: 2
+      abs_stat_error: 1.91687
+      abs_sys_error: 0
+      efficiency: 0.125
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 32.7019
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.125358
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.666552
+        z_min: 0.6
+        z_max: 0.7
+      Pt:
+        Pt_mean: 0.605559
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.103379
+      xSec_diff: 0.00526515
+      xSec_uncorr_error: 0.0196742
+      xSec_corr_error: 0.000263258
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 10
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 0.1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 33.2457
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.122385
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.63327
+        z_min: 0.6
+        z_max: 0.7
+      Pt:
+        Pt_mean: 0.730044
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.103379
+      xSec_diff: 0.00631819
+      xSec_uncorr_error: 0.0130816
+      xSec_corr_error: 0.000315909
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 12
+      Num_reco: 3
+      abs_stat_error: 1.56512
+      abs_sys_error: 0
+      efficiency: 0.25
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 41.8105
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.185096
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.665585
+        z_min: 0.6
+        z_max: 0.7
+      Pt:
+        Pt_mean: 0.987933
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.103379
+      xSec_diff: 0.00263258
+      xSec_uncorr_error: 0.00957472
+      xSec_corr_error: 0.000131629
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 5
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 0.2
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 38.0391
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.164071
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.646329
+        z_min: 0.6
+        z_max: 0.7
+      Pt:
+        Pt_mean: 1.18797
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.516894
+      xSec_diff: 0.00368561
+      xSec_uncorr_error: 0.00984744
+      xSec_corr_error: 0.00018428
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 35
+      Num_reco: 2
+      abs_stat_error: 1.91687
+      abs_sys_error: 0
+      efficiency: 0.0571429
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 32.4357
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.116852
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.748209
+        z_min: 0.7
+        z_max: 0.8
+      Pt:
+        Pt_mean: 0.389496
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.103379
+      xSec_diff: 0.00421212
+      xSec_uncorr_error: 0.0156354
+      xSec_corr_error: 0.000210606
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 8
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 0.125
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.6736
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.143421
+        xB_min: 0.1
+        xB_max: 0.251189
+      z:
+        z_mean: 0.706986
+        z_min: 0.7
+        z_max: 0.8
+      Pt:
+        Pt_mean: 0.530076
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.103379
+      xSec_diff: 0.00210606
+      xSec_uncorr_error: 0.00755264
+      xSec_corr_error: 0.000105303
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 4
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 0.25
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.8534
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.368449
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.0706666
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.0678081
+        Pt_min: 0
+        Pt_max: 0.1
+      Delta_bin: 0.129837
+      xSec_diff: 0.227637
+      xSec_uncorr_error: 0.0320267
+      xSec_corr_error: 0.0113818
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 543
+      Num_reco: 441
+      abs_stat_error: 0.129089
+      abs_sys_error: 0
+      efficiency: 0.812155
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.8843
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.370314
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.071003
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.154317
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.129837
+      xSec_diff: 0.560498
+      xSec_uncorr_error: 0.0507195
+      xSec_corr_error: 0.0280249
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1337
+      Num_reco: 1074
+      abs_stat_error: 0.0827192
+      abs_sys_error: 0
+      efficiency: 0.803291
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.7846
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.373101
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.0708651
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.251808
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.129837
+      xSec_diff: 0.813289
+      xSec_uncorr_error: 0.0624391
+      xSec_corr_error: 0.0406644
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1940
+      Num_reco: 1518
+      abs_stat_error: 0.0695781
+      abs_sys_error: 0
+      efficiency: 0.782474
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.0831
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.369743
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.070782
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.35108
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.129837
+      xSec_diff: 0.84473
+      xSec_uncorr_error: 0.0634588
+      xSec_corr_error: 0.0422365
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 2015
+      Num_reco: 1582
+      abs_stat_error: 0.0681562
+      abs_sys_error: 0
+      efficiency: 0.785112
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.7016
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.367569
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.0709046
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.44991
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.129837
+      xSec_diff: 0.83425
+      xSec_uncorr_error: 0.0627451
+      xSec_corr_error: 0.0417125
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1990
+      Num_reco: 1572
+      abs_stat_error: 0.0683726
+      abs_sys_error: 0
+      efficiency: 0.78995
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.8642
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.369206
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.0711831
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.548732
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.129837
+      xSec_diff: 0.768432
+      xSec_uncorr_error: 0.0607023
+      xSec_corr_error: 0.0384216
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1833
+      Num_reco: 1434
+      abs_stat_error: 0.071587
+      abs_sys_error: 0
+      efficiency: 0.782324
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.1773
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.367367
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.0714029
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.647431
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.129837
+      xSec_diff: 0.644762
+      xSec_uncorr_error: 0.0565725
+      xSec_corr_error: 0.0322381
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1538
+      Num_reco: 1178
+      abs_stat_error: 0.0789834
+      abs_sys_error: 0
+      efficiency: 0.76593
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.2732
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.364328
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.0718728
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.747784
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.129837
+      xSec_diff: 0.477493
+      xSec_uncorr_error: 0.0478093
+      xSec_corr_error: 0.0238746
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1139
+      Num_reco: 892
+      abs_stat_error: 0.0907666
+      abs_sys_error: 0
+      efficiency: 0.783143
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.7835
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.366586
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.0715548
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.845437
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.129837
+      xSec_diff: 0.391133
+      xSec_uncorr_error: 0.0420623
+      xSec_corr_error: 0.0195567
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 933
+      Num_reco: 756
+      abs_stat_error: 0.0985934
+      abs_sys_error: 0
+      efficiency: 0.810289
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.3798
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.365709
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.0713055
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.946432
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.129837
+      xSec_diff: 0.332442
+      xSec_uncorr_error: 0.0419195
+      xSec_corr_error: 0.0166221
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 793
+      Num_reco: 584
+      abs_stat_error: 0.112177
+      abs_sys_error: 0
+      efficiency: 0.736444
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.6057
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.361903
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.0715807
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 1.20932
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.649187
+      xSec_diff: 0.17557
+      xSec_uncorr_error: 0.0135827
+      xSec_corr_error: 0.00877849
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 2094
+      Num_reco: 1548
+      abs_stat_error: 0.0689006
+      abs_sys_error: 0
+      efficiency: 0.739255
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 38.8192
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.355914
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.122431
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.066454
+        Pt_min: 0
+        Pt_max: 0.1
+      Delta_bin: 0.129837
+      xSec_diff: 0.0905517
+      xSec_uncorr_error: 0.023137
+      xSec_corr_error: 0.00452759
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 216
+      Num_reco: 148
+      abs_stat_error: 0.222832
+      abs_sys_error: 0
+      efficiency: 0.685185
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.2127
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.365416
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.120944
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.153296
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.129837
+      xSec_diff: 0.246502
+      xSec_uncorr_error: 0.0373867
+      xSec_corr_error: 0.0123251
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 588
+      Num_reco: 414
+      abs_stat_error: 0.133232
+      abs_sys_error: 0
+      efficiency: 0.704082
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.5064
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.368718
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.120247
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.25138
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.129837
+      xSec_diff: 0.335377
+      xSec_uncorr_error: 0.0432683
+      xSec_corr_error: 0.0167688
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 800
+      Num_reco: 569
+      abs_stat_error: 0.113646
+      abs_sys_error: 0
+      efficiency: 0.71125
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.857
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.374788
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.121234
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.350028
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.129837
+      xSec_diff: 0.405387
+      xSec_uncorr_error: 0.0480454
+      xSec_corr_error: 0.0202693
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 967
+      Num_reco: 679
+      abs_stat_error: 0.104034
+      abs_sys_error: 0
+      efficiency: 0.702172
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.8034
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.368833
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.120574
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.450878
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.129837
+      xSec_diff: 0.373107
+      xSec_uncorr_error: 0.0446481
+      xSec_corr_error: 0.0186553
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 890
+      Num_reco: 651
+      abs_stat_error: 0.106247
+      abs_sys_error: 0
+      efficiency: 0.731461
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.064
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.366148
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.121973
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.551004
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.129837
+      xSec_diff: 0.367238
+      xSec_uncorr_error: 0.0461386
+      xSec_corr_error: 0.0183619
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 876
+      Num_reco: 608
+      abs_stat_error: 0.10994
+      abs_sys_error: 0
+      efficiency: 0.694064
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.4398
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.364145
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.121608
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.647854
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.129837
+      xSec_diff: 0.305193
+      xSec_uncorr_error: 0.0422707
+      xSec_corr_error: 0.0152596
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 728
+      Num_reco: 502
+      abs_stat_error: 0.120992
+      abs_sys_error: 0
+      efficiency: 0.68956
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.017
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.365909
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.121504
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.746748
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.129837
+      xSec_diff: 0.251952
+      xSec_uncorr_error: 0.0387221
+      xSec_corr_error: 0.0125976
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 601
+      Num_reco: 410
+      abs_stat_error: 0.13388
+      abs_sys_error: 0
+      efficiency: 0.682196
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.4465
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.364119
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.121585
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.847139
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.129837
+      xSec_diff: 0.186553
+      xSec_uncorr_error: 0.0318403
+      xSec_corr_error: 0.00932767
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 445
+      Num_reco: 322
+      abs_stat_error: 0.151071
+      abs_sys_error: 0
+      efficiency: 0.723596
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.7301
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.358383
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.121685
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.948897
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.129837
+      xSec_diff: 0.151758
+      xSec_uncorr_error: 0.0292354
+      xSec_corr_error: 0.0075879
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 362
+      Num_reco: 256
+      abs_stat_error: 0.169429
+      abs_sys_error: 0
+      efficiency: 0.707182
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.1454
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.361475
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.121916
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 1.20873
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.649187
+      xSec_diff: 0.087701
+      xSec_uncorr_error: 0.0104898
+      xSec_corr_error: 0.00438505
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 1046
+      Num_reco: 689
+      abs_stat_error: 0.103276
+      abs_sys_error: 0
+      efficiency: 0.6587
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 41.3193
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.377627
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.17348
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.067161
+        Pt_min: 0
+        Pt_max: 0.1
+      Delta_bin: 0.129837
+      xSec_diff: 0.0423413
+      xSec_uncorr_error: 0.0171625
+      xSec_corr_error: 0.00211707
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 101
+      Num_reco: 62
+      abs_stat_error: 0.344281
+      abs_sys_error: 0
+      efficiency: 0.613861
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.3328
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.388278
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.170538
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.154979
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.129837
+      xSec_diff: 0.132055
+      xSec_uncorr_error: 0.0310447
+      xSec_corr_error: 0.00660273
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 315
+      Num_reco: 187
+      abs_stat_error: 0.198238
+      abs_sys_error: 0
+      efficiency: 0.593651
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.5864
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.374713
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.171722
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.255531
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.129837
+      xSec_diff: 0.190326
+      xSec_uncorr_error: 0.0399456
+      xSec_corr_error: 0.00951632
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 454
+      Num_reco: 244
+      abs_stat_error: 0.173546
+      abs_sys_error: 0
+      efficiency: 0.537445
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.9244
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.370941
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.16998
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.352681
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.129837
+      xSec_diff: 0.204999
+      xSec_uncorr_error: 0.0411155
+      xSec_corr_error: 0.01025
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 489
+      Num_reco: 266
+      abs_stat_error: 0.166214
+      abs_sys_error: 0
+      efficiency: 0.543967
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.4033
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.372069
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.169091
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.451541
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.129837
+      xSec_diff: 0.18823
+      xSec_uncorr_error: 0.0397602
+      xSec_corr_error: 0.00941151
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 449
+      Num_reco: 241
+      abs_stat_error: 0.174622
+      abs_sys_error: 0
+      efficiency: 0.536748
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.8785
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.380598
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.171108
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.54854
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.129837
+      xSec_diff: 0.192842
+      xSec_uncorr_error: 0.039149
+      xSec_corr_error: 0.00964208
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 460
+      Num_reco: 257
+      abs_stat_error: 0.169099
+      abs_sys_error: 0
+      efficiency: 0.558696
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.593
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.370348
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.170826
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.649669
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.129837
+      xSec_diff: 0.171042
+      xSec_uncorr_error: 0.0369765
+      xSec_corr_error: 0.00855211
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 408
+      Num_reco: 227
+      abs_stat_error: 0.179927
+      abs_sys_error: 0
+      efficiency: 0.556373
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.6345
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.374507
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.172231
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.752247
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.129837
+      xSec_diff: 0.14505
+      xSec_uncorr_error: 0.0324694
+      xSec_corr_error: 0.00725252
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 346
+      Num_reco: 206
+      abs_stat_error: 0.188875
+      abs_sys_error: 0
+      efficiency: 0.595376
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.2875
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.368172
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.171386
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.846515
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.129837
+      xSec_diff: 0.115705
+      xSec_uncorr_error: 0.0310503
+      xSec_corr_error: 0.00578525
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 276
+      Num_reco: 149
+      abs_stat_error: 0.222083
+      abs_sys_error: 0
+      efficiency: 0.539855
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.4287
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.386591
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.172653
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.946419
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.129837
+      xSec_diff: 0.0951632
+      xSec_uncorr_error: 0.02957
+      xSec_corr_error: 0.00475816
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 227
+      Num_reco: 114
+      abs_stat_error: 0.253896
+      abs_sys_error: 0
+      efficiency: 0.502203
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.1436
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.359585
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.172721
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 1.20882
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.649187
+      xSec_diff: 0.0528218
+      xSec_uncorr_error: 0.00983961
+      xSec_corr_error: 0.00264109
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 630
+      Num_reco: 317
+      abs_stat_error: 0.152258
+      abs_sys_error: 0
+      efficiency: 0.503175
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.1454
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.395855
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.226858
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.0570417
+        Pt_min: 0
+        Pt_max: 0.1
+      Delta_bin: 0.129837
+      xSec_diff: 0.0222187
+      xSec_uncorr_error: 0.0161666
+      xSec_corr_error: 0.00111094
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 53
+      Num_reco: 22
+      abs_stat_error: 0.577959
+      abs_sys_error: 0
+      efficiency: 0.415094
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.7889
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.384213
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.225052
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.152558
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.129837
+      xSec_diff: 0.060787
+      xSec_uncorr_error: 0.0276679
+      xSec_corr_error: 0.00303935
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 145
+      Num_reco: 57
+      abs_stat_error: 0.359063
+      abs_sys_error: 0
+      efficiency: 0.393103
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.702
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.390439
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.22099
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.24722
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.129837
+      xSec_diff: 0.0964208
+      xSec_uncorr_error: 0.0364645
+      xSec_corr_error: 0.00482104
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 230
+      Num_reco: 84
+      abs_stat_error: 0.29578
+      abs_sys_error: 0
+      efficiency: 0.365217
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.8186
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.40507
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.222256
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.351133
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.129837
+      xSec_diff: 0.114447
+      xSec_uncorr_error: 0.0367568
+      xSec_corr_error: 0.00572237
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 273
+      Num_reco: 113
+      abs_stat_error: 0.255017
+      abs_sys_error: 0
+      efficiency: 0.413919
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.0164
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.39582
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.220242
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.449753
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.129837
+      xSec_diff: 0.121574
+      xSec_uncorr_error: 0.040004
+      xSec_corr_error: 0.0060787
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 290
+      Num_reco: 110
+      abs_stat_error: 0.258471
+      abs_sys_error: 0
+      efficiency: 0.37931
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.1887
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.375743
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.221261
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.549698
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.129837
+      xSec_diff: 0.110255
+      xSec_uncorr_error: 0.0356362
+      xSec_corr_error: 0.00551276
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 263
+      Num_reco: 111
+      abs_stat_error: 0.257304
+      abs_sys_error: 0
+      efficiency: 0.422053
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 38.8276
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.378992
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.222455
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.645687
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.129837
+      xSec_diff: 0.0846826
+      xSec_uncorr_error: 0.034109
+      xSec_corr_error: 0.00423413
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 202
+      Num_reco: 74
+      abs_stat_error: 0.315132
+      abs_sys_error: 0
+      efficiency: 0.366337
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.1604
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.395085
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.222115
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.750329
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.129837
+      xSec_diff: 0.0825865
+      xSec_uncorr_error: 0.0337323
+      xSec_corr_error: 0.00412933
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 197
+      Num_reco: 72
+      abs_stat_error: 0.319479
+      abs_sys_error: 0
+      efficiency: 0.365482
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.4826
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.388187
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.224954
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.846671
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.129837
+      xSec_diff: 0.0637216
+      xSec_uncorr_error: 0.029812
+      xSec_corr_error: 0.00318608
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 152
+      Num_reco: 55
+      abs_stat_error: 0.365534
+      abs_sys_error: 0
+      efficiency: 0.361842
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.7559
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.394355
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.221233
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.947325
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.129837
+      xSec_diff: 0.0477912
+      xSec_uncorr_error: 0.0241357
+      xSec_corr_error: 0.00238956
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 114
+      Num_reco: 46
+      abs_stat_error: 0.399696
+      abs_sys_error: 0
+      efficiency: 0.403509
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.1307
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.375653
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.223567
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 1.21504
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.649187
+      xSec_diff: 0.030687
+      xSec_uncorr_error: 0.00838966
+      xSec_corr_error: 0.00153435
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 366
+      Num_reco: 155
+      abs_stat_error: 0.217742
+      abs_sys_error: 0
+      efficiency: 0.423497
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 37.8143
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.40561
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.269813
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.0628974
+        Pt_min: 0
+        Pt_max: 0.1
+      Delta_bin: 0.129837
+      xSec_diff: 0.0138343
+      xSec_uncorr_error: 0.0164295
+      xSec_corr_error: 0.000691715
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 33
+      Num_reco: 9
+      abs_stat_error: 0.903623
+      abs_sys_error: 0
+      efficiency: 0.272727
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.6013
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.410623
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.275036
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.151488
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.129837
+      xSec_diff: 0.0306031
+      xSec_uncorr_error: 0.0251037
+      xSec_corr_error: 0.00153016
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 73
+      Num_reco: 19
+      abs_stat_error: 0.621916
+      abs_sys_error: 0
+      efficiency: 0.260274
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 38.1952
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.425806
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.272387
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.247398
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.129837
+      xSec_diff: 0.0595294
+      xSec_uncorr_error: 0.0320605
+      xSec_corr_error: 0.00297647
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 142
+      Num_reco: 43
+      abs_stat_error: 0.413404
+      abs_sys_error: 0
+      efficiency: 0.302817
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.1124
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.413323
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.272888
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.351739
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.129837
+      xSec_diff: 0.068333
+      xSec_uncorr_error: 0.0293566
+      xSec_corr_error: 0.00341665
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 163
+      Num_reco: 64
+      abs_stat_error: 0.338859
+      abs_sys_error: 0
+      efficiency: 0.392638
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.3296
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.417045
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.271266
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.448726
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.129837
+      xSec_diff: 0.0616255
+      xSec_uncorr_error: 0.0290482
+      xSec_corr_error: 0.00308127
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 147
+      Num_reco: 54
+      abs_stat_error: 0.368903
+      abs_sys_error: 0
+      efficiency: 0.367347
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.497
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.408173
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.272175
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.542648
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.129837
+      xSec_diff: 0.0574333
+      xSec_uncorr_error: 0.031263
+      xSec_corr_error: 0.00287166
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 137
+      Num_reco: 42
+      abs_stat_error: 0.418296
+      abs_sys_error: 0
+      efficiency: 0.306569
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.0498
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.405761
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.271279
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.65515
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.129837
+      xSec_diff: 0.0628831
+      xSec_uncorr_error: 0.0344971
+      xSec_corr_error: 0.00314416
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 150
+      Num_reco: 42
+      abs_stat_error: 0.418296
+      abs_sys_error: 0
+      efficiency: 0.28
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.5607
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.438728
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.275654
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.753575
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.129837
+      xSec_diff: 0.047372
+      xSec_uncorr_error: 0.0282211
+      xSec_corr_error: 0.0023686
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 113
+      Num_reco: 35
+      abs_stat_error: 0.458221
+      abs_sys_error: 0
+      efficiency: 0.309735
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.2968
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.394975
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.274441
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.850873
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.129837
+      xSec_diff: 0.0377299
+      xSec_uncorr_error: 0.026239
+      xSec_corr_error: 0.00188649
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 90
+      Num_reco: 26
+      abs_stat_error: 0.531645
+      abs_sys_error: 0
+      efficiency: 0.288889
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 37.9342
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.43515
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.271795
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.938736
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.129837
+      xSec_diff: 0.0406644
+      xSec_uncorr_error: 0.0291012
+      xSec_corr_error: 0.00203322
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 97
+      Num_reco: 25
+      abs_stat_error: 0.542174
+      abs_sys_error: 0
+      efficiency: 0.257732
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.6129
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.399917
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.270599
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 1.21719
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.649187
+      xSec_diff: 0.0188649
+      xSec_uncorr_error: 0.00829749
+      xSec_corr_error: 0.000943247
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 225
+      Num_reco: 65
+      abs_stat_error: 0.336242
+      abs_sys_error: 0
+      efficiency: 0.288889
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 45.5536
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.336425
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.306664
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.0715581
+        Pt_min: 0
+        Pt_max: 0.1
+      Delta_bin: 0.259675
+      xSec_diff: 0.00544987
+      xSec_uncorr_error: 0.0117097
+      xSec_corr_error: 0.000272494
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 26
+      Num_reco: 3
+      abs_stat_error: 1.56512
+      abs_sys_error: 0
+      efficiency: 0.115385
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 38.3123
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.501529
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.342337
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.159686
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.259675
+      xSec_diff: 0.0205418
+      xSec_uncorr_error: 0.017169
+      xSec_corr_error: 0.00102709
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 98
+      Num_reco: 19
+      abs_stat_error: 0.621916
+      abs_sys_error: 0
+      efficiency: 0.193878
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 37.8606
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.446894
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.33849
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.252826
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.259675
+      xSec_diff: 0.0268301
+      xSec_uncorr_error: 0.0164272
+      xSec_corr_error: 0.00134151
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 128
+      Num_reco: 34
+      abs_stat_error: 0.46491
+      abs_sys_error: 0
+      efficiency: 0.265625
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 38.067
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.447699
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.339228
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.350642
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.259675
+      xSec_diff: 0.0295551
+      xSec_uncorr_error: 0.0179244
+      xSec_corr_error: 0.00147775
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 141
+      Num_reco: 35
+      abs_stat_error: 0.458221
+      abs_sys_error: 0
+      efficiency: 0.248227
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.2804
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.419698
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.335573
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.455757
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.259675
+      xSec_diff: 0.0306031
+      xSec_uncorr_error: 0.015105
+      xSec_corr_error: 0.00153016
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 146
+      Num_reco: 50
+      abs_stat_error: 0.383375
+      abs_sys_error: 0
+      efficiency: 0.342466
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.7944
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.398055
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.337076
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.549804
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.259675
+      xSec_diff: 0.0318608
+      xSec_uncorr_error: 0.0152455
+      xSec_corr_error: 0.00159304
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 152
+      Num_reco: 53
+      abs_stat_error: 0.372367
+      abs_sys_error: 0
+      efficiency: 0.348684
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.5786
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.421924
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.338511
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.6567
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.259675
+      xSec_diff: 0.0314416
+      xSec_uncorr_error: 0.0212742
+      xSec_corr_error: 0.00157208
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 150
+      Num_reco: 29
+      abs_stat_error: 0.503396
+      abs_sys_error: 0
+      efficiency: 0.193333
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.48
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.458629
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.338666
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.745142
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.259675
+      xSec_diff: 0.024734
+      xSec_uncorr_error: 0.0140898
+      xSec_corr_error: 0.0012367
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 118
+      Num_reco: 38
+      abs_stat_error: 0.439761
+      abs_sys_error: 0
+      efficiency: 0.322034
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.9352
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.438892
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.339171
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.848012
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.259675
+      xSec_diff: 0.0203322
+      xSec_uncorr_error: 0.0130848
+      xSec_corr_error: 0.00101661
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 97
+      Num_reco: 30
+      abs_stat_error: 0.494935
+      abs_sys_error: 0
+      efficiency: 0.309278
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.0034
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.449735
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.358256
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.944195
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.259675
+      xSec_diff: 0.0159304
+      xSec_uncorr_error: 0.0161981
+      xSec_corr_error: 0.00079652
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 76
+      Num_reco: 13
+      abs_stat_error: 0.75186
+      abs_sys_error: 0
+      efficiency: 0.171053
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.6889
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.40896
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.335576
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 1.2184
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 1.29837
+      xSec_diff: 0.00905517
+      xSec_uncorr_error: 0.00411908
+      xSec_corr_error: 0.000452759
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 216
+      Num_reco: 61
+      abs_stat_error: 0.347091
+      abs_sys_error: 0
+      efficiency: 0.282407
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.0267
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.50313
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.418119
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.0768422
+        Pt_min: 0
+        Pt_max: 0.1
+      Delta_bin: 0.259675
+      xSec_diff: 0.00230572
+      xSec_uncorr_error: 0.00474279
+      xSec_corr_error: 0.000115286
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 11
+      Num_reco: 3
+      abs_stat_error: 1.56512
+      abs_sys_error: 0
+      efficiency: 0.272727
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 37.5236
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.449511
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.427007
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.157479
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.259675
+      xSec_diff: 0.00817481
+      xSec_uncorr_error: 0.0122926
+      xSec_corr_error: 0.00040874
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 39
+      Num_reco: 6
+      abs_stat_error: 1.10671
+      abs_sys_error: 0
+      efficiency: 0.153846
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.4132
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.480904
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.443726
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.253289
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.259675
+      xSec_diff: 0.00817481
+      xSec_uncorr_error: 0.0104968
+      xSec_corr_error: 0.00040874
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 39
+      Num_reco: 8
+      abs_stat_error: 0.958437
+      abs_sys_error: 0
+      efficiency: 0.205128
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.1206
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.448165
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.446077
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.335655
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.259675
+      xSec_diff: 0.0121574
+      xSec_uncorr_error: 0.0127398
+      xSec_corr_error: 0.00060787
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 58
+      Num_reco: 12
+      abs_stat_error: 0.782561
+      abs_sys_error: 0
+      efficiency: 0.206897
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 33.9237
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.421045
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.436633
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.451594
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.259675
+      xSec_diff: 0.0146727
+      xSec_uncorr_error: 0.0181378
+      xSec_corr_error: 0.000733637
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 70
+      Num_reco: 9
+      abs_stat_error: 0.903623
+      abs_sys_error: 0
+      efficiency: 0.128571
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 38.1684
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.460882
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.437813
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.549281
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.259675
+      xSec_diff: 0.012367
+      xSec_uncorr_error: 0.0114372
+      xSec_corr_error: 0.000618351
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 59
+      Num_reco: 15
+      abs_stat_error: 0.699943
+      abs_sys_error: 0
+      efficiency: 0.254237
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.6392
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.455501
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.441372
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.65509
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.259675
+      xSec_diff: 0.00901325
+      xSec_uncorr_error: 0.0102722
+      xSec_corr_error: 0.000450663
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 43
+      Num_reco: 10
+      abs_stat_error: 0.857252
+      abs_sys_error: 0
+      efficiency: 0.232558
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.3225
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.423507
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.444436
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.745819
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.259675
+      xSec_diff: 0.0121574
+      xSec_uncorr_error: 0.0116808
+      xSec_corr_error: 0.00060787
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 58
+      Num_reco: 14
+      abs_stat_error: 0.72451
+      abs_sys_error: 0
+      efficiency: 0.241379
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.1595
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.434625
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.424599
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.853858
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.259675
+      xSec_diff: 0.00880364
+      xSec_uncorr_error: 0.0164688
+      xSec_corr_error: 0.000440182
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 42
+      Num_reco: 4
+      abs_stat_error: 1.35543
+      abs_sys_error: 0
+      efficiency: 0.0952381
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 33.9146
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.442495
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.433168
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.934422
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.259675
+      xSec_diff: 0.00670753
+      xSec_uncorr_error: 0.0110417
+      xSec_corr_error: 0.000335377
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 32
+      Num_reco: 5
+      abs_stat_error: 1.21234
+      abs_sys_error: 0
+      efficiency: 0.15625
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.1293
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.443426
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.43773
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 1.23559
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 1.29837
+      xSec_diff: 0.00456951
+      xSec_uncorr_error: 0.00383985
+      xSec_corr_error: 0.000228475
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 109
+      Num_reco: 19
+      abs_stat_error: 0.621916
+      abs_sys_error: 0
+      efficiency: 0.174312
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 34.8315
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.467185
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.536932
+        z_min: 0.5
+        z_max: 0.6
+      Pt:
+        Pt_mean: 0.211378
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.259675
+      xSec_diff: 0.00356338
+      xSec_uncorr_error: 0.00937143
+      xSec_corr_error: 0.000178169
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 17
+      Num_reco: 2
+      abs_stat_error: 1.91687
+      abs_sys_error: 0
+      efficiency: 0.117647
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.177
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.436177
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.543212
+        z_min: 0.5
+        z_max: 0.6
+      Pt:
+        Pt_mean: 0.359313
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.259675
+      xSec_diff: 0.00419221
+      xSec_uncorr_error: 0.00762356
+      xSec_corr_error: 0.00020961
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 20
+      Num_reco: 4
+      abs_stat_error: 1.35543
+      abs_sys_error: 0
+      efficiency: 0.2
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 32.7959
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.421328
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.532797
+        z_min: 0.5
+        z_max: 0.6
+      Pt:
+        Pt_mean: 0.449855
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.259675
+      xSec_diff: 0.0039826
+      xSec_uncorr_error: 0.00722117
+      xSec_corr_error: 0.00019913
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 19
+      Num_reco: 4
+      abs_stat_error: 1.35543
+      abs_sys_error: 0
+      efficiency: 0.210526
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 32.9563
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.491376
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.541037
+        z_min: 0.5
+        z_max: 0.6
+      Pt:
+        Pt_mean: 0.555868
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.259675
+      xSec_diff: 0.00314416
+      xSec_uncorr_error: 0.0066022
+      xSec_corr_error: 0.000157208
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 15
+      Num_reco: 3
+      abs_stat_error: 1.56512
+      abs_sys_error: 0
+      efficiency: 0.2
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.8267
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.454085
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.555605
+        z_min: 0.5
+        z_max: 0.6
+      Pt:
+        Pt_mean: 0.671128
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.259675
+      xSec_diff: 0.0039826
+      xSec_uncorr_error: 0.00846003
+      xSec_corr_error: 0.00019913
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 19
+      Num_reco: 3
+      abs_stat_error: 1.56512
+      abs_sys_error: 0
+      efficiency: 0.157895
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 34.4004
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.517413
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.527648
+        z_min: 0.5
+        z_max: 0.6
+      Pt:
+        Pt_mean: 0.790479
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.259675
+      xSec_diff: 0.00188649
+      xSec_uncorr_error: 0.00482156
+      xSec_corr_error: 9.43247e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 9
+      Num_reco: 2
+      abs_stat_error: 1.91687
+      abs_sys_error: 0
+      efficiency: 0.222222
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.7175
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.455295
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.530917
+        z_min: 0.5
+        z_max: 0.6
+      Pt:
+        Pt_mean: 0.953931
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.259675
+      xSec_diff: 0.00272494
+      xSec_uncorr_error: 0.00709715
+      xSec_corr_error: 0.000136247
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 13
+      Num_reco: 2
+      abs_stat_error: 1.91687
+      abs_sys_error: 0
+      efficiency: 0.153846
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 38.9227
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.458805
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.526615
+        z_min: 0.5
+        z_max: 0.6
+      Pt:
+        Pt_mean: 1.10237
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 1.29837
+      xSec_diff: 0.00180265
+      xSec_uncorr_error: 0.00232696
+      xSec_corr_error: 9.01325e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 43
+      Num_reco: 8
+      abs_stat_error: 0.958437
+      abs_sys_error: 0
+      efficiency: 0.186047
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 42.5358
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.517165
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.684999
+        z_min: 0.6
+        z_max: 0.7
+      Pt:
+        Pt_mean: 0.16596
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.259675
+      xSec_diff: 0.00188649
+      xSec_uncorr_error: 0.00702857
+      xSec_corr_error: 9.43247e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 9
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 0.111111
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.0607
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.378545
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.613566
+        z_min: 0.6
+        z_max: 0.7
+      Pt:
+        Pt_mean: 0.207629
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.259675
+      xSec_diff: 0.00125766
+      xSec_uncorr_error: 0.00461629
+      xSec_corr_error: 6.28831e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 6
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 0.166667
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 43.5996
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.538896
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.612614
+        z_min: 0.6
+        z_max: 0.7
+      Pt:
+        Pt_mean: 0.482734
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.259675
+      xSec_diff: 0.00251533
+      xSec_uncorr_error: 0.00944009
+      xSec_corr_error: 0.000125766
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 12
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 0.0833333
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 33.0311
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.358362
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.683218
+        z_min: 0.6
+        z_max: 0.7
+      Pt:
+        Pt_mean: 0.664812
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.259675
+      xSec_diff: 0.00167688
+      xSec_uncorr_error: 0.00622461
+      xSec_corr_error: 8.38442e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 8
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 0.125
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.915
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.512667
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.676939
+        z_min: 0.6
+        z_max: 0.7
+      Pt:
+        Pt_mean: 0.831459
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.259675
+      xSec_diff: 0.00104805
+      xSec_uncorr_error: 0.00381178
+      xSec_corr_error: 5.24026e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 5
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 0.2
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 41.5146
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.325973
+        xB_min: 0.251189
+        xB_max: 0.630957
+      z:
+        z_mean: 0.706151
+        z_min: 0.7
+        z_max: 0.8
+      Pt:
+        Pt_mean: 0.335839
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.259675
+      xSec_diff: 0.00104805
+      xSec_uncorr_error: 0.00254119
+      xSec_corr_error: 5.24026e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 5
+      Num_reco: 2
+      abs_stat_error: 1.91687
+      abs_sys_error: 0
+      efficiency: 0.4
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 42.4501
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.669048
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.0681505
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.0732914
+        Pt_min: 0
+        Pt_max: 0.1
+      Delta_bin: 0.126171
+      xSec_diff: 0.00474545
+      xSec_uncorr_error: 0.00466165
+      xSec_corr_error: 0.000237272
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 11
+      Num_reco: 9
+      abs_stat_error: 0.903623
+      abs_sys_error: 0
+      efficiency: 0.818182
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.9988
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.687803
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.0689145
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.150072
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.126171
+      xSec_diff: 0.0250214
+      xSec_uncorr_error: 0.0106009
+      xSec_corr_error: 0.00125107
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 58
+      Num_reco: 48
+      abs_stat_error: 0.39128
+      abs_sys_error: 0
+      efficiency: 0.827586
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 42.9937
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.685792
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.0706319
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.248757
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.126171
+      xSec_diff: 0.0254528
+      xSec_uncorr_error: 0.0108479
+      xSec_corr_error: 0.00127264
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 59
+      Num_reco: 48
+      abs_stat_error: 0.39128
+      abs_sys_error: 0
+      efficiency: 0.813559
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.9264
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.694389
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.0719237
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.349386
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.126171
+      xSec_diff: 0.0267471
+      xSec_uncorr_error: 0.0103141
+      xSec_corr_error: 0.00133735
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 62
+      Num_reco: 55
+      abs_stat_error: 0.365534
+      abs_sys_error: 0
+      efficiency: 0.887097
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 42.1379
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.682203
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.0713397
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.452363
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.126171
+      xSec_diff: 0.020276
+      xSec_uncorr_error: 0.00952118
+      xSec_corr_error: 0.0010138
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 47
+      Num_reco: 39
+      abs_stat_error: 0.434087
+      abs_sys_error: 0
+      efficiency: 0.829787
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 44.658
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.685937
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.0713175
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.549977
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.126171
+      xSec_diff: 0.022433
+      xSec_uncorr_error: 0.0102463
+      xSec_corr_error: 0.00112165
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 52
+      Num_reco: 42
+      abs_stat_error: 0.418296
+      abs_sys_error: 0
+      efficiency: 0.807692
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 45.8537
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.677387
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.0740462
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.654966
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.126171
+      xSec_diff: 0.0215702
+      xSec_uncorr_error: 0.010128
+      xSec_corr_error: 0.00107851
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 50
+      Num_reco: 40
+      abs_stat_error: 0.428626
+      abs_sys_error: 0
+      efficiency: 0.8
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 44.9414
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.689124
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.0734541
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.743014
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.126171
+      xSec_diff: 0.0116479
+      xSec_uncorr_error: 0.00859389
+      xSec_corr_error: 0.000582396
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 27
+      Num_reco: 18
+      abs_stat_error: 0.638958
+      abs_sys_error: 0
+      efficiency: 0.666667
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 44.9331
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.692954
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.073219
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.834639
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.126171
+      xSec_diff: 0.00949089
+      xSec_uncorr_error: 0.00574062
+      xSec_corr_error: 0.000474545
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 22
+      Num_reco: 21
+      abs_stat_error: 0.59156
+      abs_sys_error: 0
+      efficiency: 0.954545
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 46.0391
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.70579
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.0829761
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 0.951705
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.126171
+      xSec_diff: 0.00517685
+      xSec_uncorr_error: 0.00523008
+      xSec_corr_error: 0.000258843
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 12
+      Num_reco: 9
+      abs_stat_error: 0.903623
+      abs_sys_error: 0
+      efficiency: 0.75
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 46.5253
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.704282
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.0701529
+        z_min: 0.05
+        z_max: 0.1
+      Pt:
+        Pt_mean: 1.20916
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.630853
+      xSec_diff: 0.00276099
+      xSec_uncorr_error: 0.00170814
+      xSec_corr_error: 0.000138049
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 32
+      Num_reco: 24
+      abs_stat_error: 0.553354
+      abs_sys_error: 0
+      efficiency: 0.75
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 46.9157
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.675895
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.118721
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.0655164
+        Pt_min: 0
+        Pt_max: 0.1
+      Delta_bin: 0.126171
+      xSec_diff: 0.00388264
+      xSec_uncorr_error: 0.00439806
+      xSec_corr_error: 0.000194132
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 9
+      Num_reco: 7
+      abs_stat_error: 1.02461
+      abs_sys_error: 0
+      efficiency: 0.777778
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 41.9164
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.709471
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.123788
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.161085
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.126171
+      xSec_diff: 0.0107851
+      xSec_uncorr_error: 0.0058474
+      xSec_corr_error: 0.000539255
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 25
+      Num_reco: 25
+      abs_stat_error: 0.542174
+      abs_sys_error: 0
+      efficiency: 1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 44.7575
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.697384
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.118411
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.252711
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.126171
+      xSec_diff: 0.00949089
+      xSec_uncorr_error: 0.00725644
+      xSec_corr_error: 0.000474545
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 22
+      Num_reco: 16
+      abs_stat_error: 0.677717
+      abs_sys_error: 0
+      efficiency: 0.727273
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 38.7354
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.695571
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.123623
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.355514
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.126171
+      xSec_diff: 0.0116479
+      xSec_uncorr_error: 0.00679407
+      xSec_corr_error: 0.000582396
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 27
+      Num_reco: 24
+      abs_stat_error: 0.553354
+      abs_sys_error: 0
+      efficiency: 0.888889
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 38.6664
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.682091
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.119104
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.458798
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.126171
+      xSec_diff: 0.0138049
+      xSec_uncorr_error: 0.00883275
+      xSec_corr_error: 0.000690247
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 32
+      Num_reco: 23
+      abs_stat_error: 0.565255
+      abs_sys_error: 0
+      efficiency: 0.71875
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.6183
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.696131
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.127026
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.537561
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.126171
+      xSec_diff: 0.0150991
+      xSec_uncorr_error: 0.00753952
+      xSec_corr_error: 0.000754957
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 35
+      Num_reco: 32
+      abs_stat_error: 0.479219
+      abs_sys_error: 0
+      efficiency: 0.914286
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 38.2607
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.691807
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.120676
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.648596
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.126171
+      xSec_diff: 0.00905949
+      xSec_uncorr_error: 0.00618831
+      xSec_corr_error: 0.000452974
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 21
+      Num_reco: 18
+      abs_stat_error: 0.638958
+      abs_sys_error: 0
+      efficiency: 0.857143
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 46.9882
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.67437
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.124061
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.753233
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.126171
+      xSec_diff: 0.00603966
+      xSec_uncorr_error: 0.00691874
+      xSec_corr_error: 0.000301983
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 14
+      Num_reco: 8
+      abs_stat_error: 0.958437
+      abs_sys_error: 0
+      efficiency: 0.571429
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 47.9139
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.710073
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.126119
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.837929
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.126171
+      xSec_diff: 0.00560825
+      xSec_uncorr_error: 0.00492395
+      xSec_corr_error: 0.000280413
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 13
+      Num_reco: 11
+      abs_stat_error: 0.817358
+      abs_sys_error: 0
+      efficiency: 0.846154
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 46.4446
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.681809
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.124781
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 0.950503
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.126171
+      xSec_diff: 0.00560825
+      xSec_uncorr_error: 0.00492395
+      xSec_corr_error: 0.000280413
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 13
+      Num_reco: 11
+      abs_stat_error: 0.817358
+      abs_sys_error: 0
+      efficiency: 0.846154
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 42.8044
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.682436
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.125886
+        z_min: 0.1
+        z_max: 0.15
+      Pt:
+        Pt_mean: 1.16949
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.630853
+      xSec_diff: 0.0022433
+      xSec_uncorr_error: 0.00150858
+      xSec_corr_error: 0.000112165
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 26
+      Num_reco: 20
+      abs_stat_error: 0.606169
+      abs_sys_error: 0
+      efficiency: 0.769231
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 31.9967
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.681339
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.158617
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.0245744
+        Pt_min: 0
+        Pt_max: 0.1
+      Delta_bin: 0.126171
+      xSec_diff: 0.000862808
+      xSec_uncorr_error: 0.00286463
+      xSec_corr_error: 4.31404e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 2
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 0.5
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.559
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.692657
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.16784
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.14738
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.126171
+      xSec_diff: 0.00388264
+      xSec_uncorr_error: 0.00496169
+      xSec_corr_error: 0.000194132
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 9
+      Num_reco: 6
+      abs_stat_error: 1.10671
+      abs_sys_error: 0
+      efficiency: 0.666667
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.3986
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.706199
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.168917
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.253257
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.126171
+      xSec_diff: 0.00733387
+      xSec_uncorr_error: 0.00542686
+      xSec_corr_error: 0.000366694
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 17
+      Num_reco: 15
+      abs_stat_error: 0.699943
+      abs_sys_error: 0
+      efficiency: 0.882353
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.8707
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.683605
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.17139
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.349107
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.126171
+      xSec_diff: 0.00776528
+      xSec_uncorr_error: 0.00659966
+      xSec_corr_error: 0.000388264
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 18
+      Num_reco: 13
+      abs_stat_error: 0.75186
+      abs_sys_error: 0
+      efficiency: 0.722222
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 45.1061
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.698308
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.175012
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.455502
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.126171
+      xSec_diff: 0.00819668
+      xSec_uncorr_error: 0.00631231
+      xSec_corr_error: 0.000409834
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 19
+      Num_reco: 15
+      abs_stat_error: 0.699943
+      abs_sys_error: 0
+      efficiency: 0.789474
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 37.5906
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.687293
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.165301
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.533025
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.126171
+      xSec_diff: 0.00560825
+      xSec_uncorr_error: 0.00694692
+      xSec_corr_error: 0.000280413
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 13
+      Num_reco: 7
+      abs_stat_error: 1.02461
+      abs_sys_error: 0
+      efficiency: 0.538462
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 38.2752
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.653515
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.175229
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.650684
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.126171
+      xSec_diff: 0.00345123
+      xSec_uncorr_error: 0.00330779
+      xSec_corr_error: 0.000172562
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 8
+      Num_reco: 8
+      abs_stat_error: 0.958437
+      abs_sys_error: 0
+      efficiency: 1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 43.5064
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.716551
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.176856
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.754465
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.126171
+      xSec_diff: 0.00431404
+      xSec_uncorr_error: 0.00452938
+      xSec_corr_error: 0.000215702
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 10
+      Num_reco: 8
+      abs_stat_error: 0.958437
+      abs_sys_error: 0
+      efficiency: 0.8
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 43.4847
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.714552
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.174251
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.868551
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.126171
+      xSec_diff: 0.00301983
+      xSec_uncorr_error: 0.00592485
+      xSec_corr_error: 0.000150991
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 7
+      Num_reco: 3
+      abs_stat_error: 1.56512
+      abs_sys_error: 0
+      efficiency: 0.428571
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 37.3241
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.669831
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.175045
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 0.94894
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.126171
+      xSec_diff: 0.00345123
+      xSec_uncorr_error: 0.00375068
+      xSec_corr_error: 0.000172562
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 8
+      Num_reco: 7
+      abs_stat_error: 1.02461
+      abs_sys_error: 0
+      efficiency: 0.875
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 42.6122
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.682467
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.16993
+        z_min: 0.15
+        z_max: 0.2
+      Pt:
+        Pt_mean: 1.19484
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.630853
+      xSec_diff: 0.00120793
+      xSec_uncorr_error: 0.000875159
+      xSec_corr_error: 6.03966e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 14
+      Num_reco: 14
+      abs_stat_error: 0.72451
+      abs_sys_error: 0
+      efficiency: 1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 44.4955
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.673625
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.227892
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.0710004
+        Pt_min: 0
+        Pt_max: 0.1
+      Delta_bin: 0.126171
+      xSec_diff: 0.00129421
+      xSec_uncorr_error: 0.00286463
+      xSec_corr_error: 6.47106e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 3
+      Num_reco: 2
+      abs_stat_error: 1.91687
+      abs_sys_error: 0
+      efficiency: 0.666667
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 38.2977
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.683085
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.227584
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.158691
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.126171
+      xSec_diff: 0.00301983
+      xSec_uncorr_error: -nan
+      xSec_corr_error: 0.000150991
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 7
+      Num_reco: 8
+      abs_stat_error: 0.958437
+      abs_sys_error: 0
+      efficiency: 1.14286
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 37.4267
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.735787
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.22385
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.238049
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.126171
+      xSec_diff: 0.00474545
+      xSec_uncorr_error: 0.00715202
+      xSec_corr_error: 0.000237272
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 11
+      Num_reco: 5
+      abs_stat_error: 1.21234
+      abs_sys_error: 0
+      efficiency: 0.454545
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 34.8731
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.679211
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.230444
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.339166
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.126171
+      xSec_diff: 0.00345123
+      xSec_uncorr_error: 0.00330779
+      xSec_corr_error: 0.000172562
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 8
+      Num_reco: 8
+      abs_stat_error: 0.958437
+      abs_sys_error: 0
+      efficiency: 1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 44.6624
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.704144
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.219569
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.461572
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.126171
+      xSec_diff: 0.000862808
+      xSec_uncorr_error: -nan
+      xSec_corr_error: 4.31404e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 2
+      Num_reco: 4
+      abs_stat_error: 1.35543
+      abs_sys_error: 0
+      efficiency: 2
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 44.3343
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.67937
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.215971
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.543116
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.126171
+      xSec_diff: 0.00258843
+      xSec_uncorr_error: -nan
+      xSec_corr_error: 0.000129421
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 6
+      Num_reco: 7
+      abs_stat_error: 1.02461
+      abs_sys_error: 0
+      efficiency: 1.16667
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.2682
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.7012
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.221165
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.633735
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.126171
+      xSec_diff: 0.00474545
+      xSec_uncorr_error: 0.00424893
+      xSec_corr_error: 0.000237272
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 11
+      Num_reco: 10
+      abs_stat_error: 0.857252
+      abs_sys_error: 0
+      efficiency: 0.909091
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.133
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.707366
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.222587
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.753182
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.126171
+      xSec_diff: 0.00215702
+      xSec_uncorr_error: 0.00261504
+      xSec_corr_error: 0.000107851
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 5
+      Num_reco: 5
+      abs_stat_error: 1.21234
+      abs_sys_error: 0
+      efficiency: 1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 34.2992
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.681195
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.213307
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.859205
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.126171
+      xSec_diff: 0.00258843
+      xSec_uncorr_error: 0.00496169
+      xSec_corr_error: 0.000129421
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 6
+      Num_reco: 3
+      abs_stat_error: 1.56512
+      abs_sys_error: 0
+      efficiency: 0.5
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 41.3014
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.708072
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.221498
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 0.933251
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.126171
+      xSec_diff: 0.00129421
+      xSec_uncorr_error: 0.0020256
+      xSec_corr_error: 6.47106e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 3
+      Num_reco: 3
+      abs_stat_error: 1.56512
+      abs_sys_error: 0
+      efficiency: 1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 37.3766
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.689827
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.232468
+        z_min: 0.2
+        z_max: 0.25
+      Pt:
+        Pt_mean: 1.2664
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.630853
+      xSec_diff: 0.000776528
+      xSec_uncorr_error: 0.000879613
+      xSec_corr_error: 3.88264e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 9
+      Num_reco: 7
+      abs_stat_error: 1.02461
+      abs_sys_error: 0
+      efficiency: 0.777778
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 37.8555
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.664718
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.264717
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.05614
+        Pt_min: 0
+        Pt_max: 0.1
+      Delta_bin: 0.126171
+      xSec_diff: 0.00129421
+      xSec_uncorr_error: -nan
+      xSec_corr_error: 6.47106e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 3
+      Num_reco: 4
+      abs_stat_error: 1.35543
+      abs_sys_error: 0
+      efficiency: 1.33333
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.5356
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.698345
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.276041
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.169099
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.126171
+      xSec_diff: 0.00129421
+      xSec_uncorr_error: 0.00286463
+      xSec_corr_error: 6.47106e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 3
+      Num_reco: 2
+      abs_stat_error: 1.91687
+      abs_sys_error: 0
+      efficiency: 0.666667
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.2861
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.655444
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.263915
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.251377
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.126171
+      xSec_diff: 0.00172562
+      xSec_uncorr_error: 0.00301959
+      xSec_corr_error: 8.62808e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 4
+      Num_reco: 3
+      abs_stat_error: 1.56512
+      abs_sys_error: 0
+      efficiency: 0.75
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 49.851
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.726296
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.259359
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.330027
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.126171
+      xSec_diff: 0.00215702
+      xSec_uncorr_error: 0.00399454
+      xSec_corr_error: 0.000107851
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 5
+      Num_reco: 3
+      abs_stat_error: 1.56512
+      abs_sys_error: 0
+      efficiency: 0.6
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.5544
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.670602
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.269063
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.445641
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.126171
+      xSec_diff: 0.00258843
+      xSec_uncorr_error: 0.00338948
+      xSec_corr_error: 0.000129421
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 6
+      Num_reco: 5
+      abs_stat_error: 1.21234
+      abs_sys_error: 0
+      efficiency: 0.833333
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 38.598
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.636773
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.258855
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.535148
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.126171
+      xSec_diff: 0.00172562
+      xSec_uncorr_error: 0.00618831
+      xSec_corr_error: 8.62808e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 4
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 0.25
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.3326
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.719749
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.280037
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.634325
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.126171
+      xSec_diff: 0.00129421
+      xSec_uncorr_error: -nan
+      xSec_corr_error: 6.47106e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 3
+      Num_reco: 4
+      abs_stat_error: 1.35543
+      abs_sys_error: 0
+      efficiency: 1.33333
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 37.5393
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.693272
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.27135
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.754047
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.126171
+      xSec_diff: 0.00258843
+      xSec_uncorr_error: 0.00338948
+      xSec_corr_error: 0.000129421
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 6
+      Num_reco: 5
+      abs_stat_error: 1.21234
+      abs_sys_error: 0
+      efficiency: 0.833333
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 41.2841
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.664504
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.269223
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.844536
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.126171
+      xSec_diff: 0.00129421
+      xSec_uncorr_error: 0.0020256
+      xSec_corr_error: 6.47106e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 3
+      Num_reco: 3
+      abs_stat_error: 1.56512
+      abs_sys_error: 0
+      efficiency: 1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.5343
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.655797
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.278909
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 0.971448
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.126171
+      xSec_diff: 0.000862808
+      xSec_uncorr_error: 0.0016539
+      xSec_corr_error: 4.31404e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 2
+      Num_reco: 2
+      abs_stat_error: 1.91687
+      abs_sys_error: 0
+      efficiency: 1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.9986
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.6744
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.284711
+        z_min: 0.25
+        z_max: 0.3
+      Pt:
+        Pt_mean: 1.21137
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 0.630853
+      xSec_diff: 0.000517685
+      xSec_uncorr_error: 0.00081024
+      xSec_corr_error: 2.58843e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 6
+      Num_reco: 4
+      abs_stat_error: 1.35543
+      abs_sys_error: 0
+      efficiency: 0.666667
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 50.505
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.696816
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.315826
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.184406
+        Pt_min: 0.1
+        Pt_max: 0.2
+      Delta_bin: 0.252341
+      xSec_diff: 0.000862808
+      xSec_uncorr_error: 0.0020256
+      xSec_corr_error: 4.31404e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 4
+      Num_reco: 2
+      abs_stat_error: 1.91687
+      abs_sys_error: 0
+      efficiency: 0.5
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 39.8455
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.72242
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.325157
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.275964
+        Pt_min: 0.2
+        Pt_max: 0.3
+      Delta_bin: 0.252341
+      xSec_diff: 0.00107851
+      xSec_uncorr_error: 0.00160138
+      xSec_corr_error: 5.39255e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 5
+      Num_reco: 4
+      abs_stat_error: 1.35543
+      abs_sys_error: 0
+      efficiency: 0.8
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.4062
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.679939
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.367506
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.336843
+        Pt_min: 0.3
+        Pt_max: 0.4
+      Delta_bin: 0.252341
+      xSec_diff: 0.000862808
+      xSec_uncorr_error: 0.00150979
+      xSec_corr_error: 4.31404e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 4
+      Num_reco: 3
+      abs_stat_error: 1.56512
+      abs_sys_error: 0
+      efficiency: 0.75
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.1268
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.701042
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.349531
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.454619
+        Pt_min: 0.4
+        Pt_max: 0.5
+      Delta_bin: 0.252341
+      xSec_diff: 0.00150991
+      xSec_uncorr_error: 0.00178641
+      xSec_corr_error: 7.54957e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 7
+      Num_reco: 6
+      abs_stat_error: 1.10671
+      abs_sys_error: 0
+      efficiency: 0.857143
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.416
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.683922
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.337327
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.568667
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.252341
+      xSec_diff: 0.00129421
+      xSec_uncorr_error: 0.00248084
+      xSec_corr_error: 6.47106e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 6
+      Num_reco: 3
+      abs_stat_error: 1.56512
+      abs_sys_error: 0
+      efficiency: 0.5
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 33.5663
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.750321
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.378054
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.613217
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.252341
+      xSec_diff: 0
+      xSec_uncorr_error: 0
+      xSec_corr_error: 0
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 0
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 0
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 41.2041
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.674557
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.36895
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.741516
+        Pt_min: 0.7
+        Pt_max: 0.8
+      Delta_bin: 0.252341
+      xSec_diff: 0.00194132
+      xSec_uncorr_error: 0.00392256
+      xSec_corr_error: 9.70659e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 9
+      Num_reco: 3
+      abs_stat_error: 1.56512
+      abs_sys_error: 0
+      efficiency: 0.333333
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 36.606
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.698579
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.36003
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.835546
+        Pt_min: 0.8
+        Pt_max: 0.9
+      Delta_bin: 0.252341
+      xSec_diff: 0.000862808
+      xSec_uncorr_error: 0.00116948
+      xSec_corr_error: 4.31404e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 4
+      Num_reco: 4
+      abs_stat_error: 1.35543
+      abs_sys_error: 0
+      efficiency: 1
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 35.5061
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.702344
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.324911
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 0.993317
+        Pt_min: 0.9
+        Pt_max: 1
+      Delta_bin: 0.252341
+      xSec_diff: 0.000862808
+      xSec_uncorr_error: 0.00309415
+      xSec_corr_error: 4.31404e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 4
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 0.25
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 47.5656
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.709894
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.344452
+        z_min: 0.3
+        z_max: 0.4
+      Pt:
+        Pt_mean: 1.31377
+        Pt_min: 1
+        Pt_max: 1.5
+      Delta_bin: 1.26171
+      xSec_diff: 0.000431404
+      xSec_uncorr_error: 0.000640551
+      xSec_corr_error: 2.15702e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 10
+      Num_reco: 5
+      abs_stat_error: 1.21234
+      abs_sys_error: 0
+      efficiency: 0.5
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 40.503
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.642843
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.408603
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.538653
+        Pt_min: 0.5
+        Pt_max: 0.6
+      Delta_bin: 0.252341
+      xSec_diff: 0.000431404
+      xSec_uncorr_error: -nan
+      xSec_corr_error: 2.15702e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 2
+      Num_reco: 3
+      abs_stat_error: 1.56512
+      abs_sys_error: 0
+      efficiency: 1.5
+  - bin:
+      s_GeV2: 10000
+      Q:
+        Q_mean: 37.0009
+        Q_min: 31.6228
+        Q_max: 100
+      xB:
+        xB_mean: 0.635454
+        xB_min: 0.630957
+        xB_max: 1
+      z:
+        z_mean: 0.438146
+        z_min: 0.4
+        z_max: 0.5
+      Pt:
+        Pt_mean: 0.611479
+        Pt_min: 0.6
+        Pt_max: 0.7
+      Delta_bin: 0.252341
+      xSec_diff: 0.000647106
+      xSec_uncorr_error: 0.00226469
+      xSec_corr_error: 3.23553e-05
+      y_min: 0.01
+      y_max: 0.95
+      W2_min: 10
+      W2_max: 10000
+      Target_mass_GeV: 0.938
+      Product_mass_GeV: 0.497
+      Num_gen: 3
+      Num_reco: 1
+      abs_stat_error: 2.71087
+      abs_sys_error: 0
+      efficiency: 0.333333
